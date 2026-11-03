@@ -4,7 +4,7 @@ Binary classifier (NORMAL vs PNEUMONIA) fine-tuned from ImageNet ResNet50, with 
 
 > **Research prototype. Not a medical device. Not for clinical use.** Trained and tested only on a public dataset; no patient data is included in this repository.
 
-**Live demo:** _Hugging Face Space link to add_
+**Demo:** a Gradio app is in `demo/` (see Run it below). There is no hosted version yet.
 
 ## Results (held-out test set, 879 images)
 
